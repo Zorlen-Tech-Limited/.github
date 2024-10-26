@@ -18,7 +18,7 @@ We specialize in:
 
 ## 🌐 Key Projects
 
-1. **TututorBoost.AI**  
+1. **TutorBoost.AI**  
    An AI-powered platform designed to help students by providing guidance and resources, just like a personal tutor. TututorBoost adapts to student needs, making learning accessible and intuitive.
 
 2. **Readaway.app**  
